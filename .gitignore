@@ -3,3 +3,6 @@ recentf
 bk/
 auto-save-list/
 custom.el
+.cache/
+.dap-breakpoints
+.lsp-session-v1
